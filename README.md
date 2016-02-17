@@ -40,7 +40,7 @@
 - [Install](#install)
     - [Spacemacs logo](#spacemacs-logo)
 - [Update](#update)
-    - [Automatic update](#automatic-update)
+    - [Automatic update](#automatic-update-on-master-branch)
     - [On develop branch](#on-develop-branch)
     - [Revert to a specific version](#revert-to-a-specific-version)
 - [Quotes](#quotes)
